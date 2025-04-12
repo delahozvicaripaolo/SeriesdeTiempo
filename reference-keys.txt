@@ -1,0 +1,6 @@
+estimacción-boostrap.
+generación-de-muestras-bootstrap.
+se-calcula-la-media-a-cada-muestra-bootstrap.
+intervalos-de-confianza.
+este-intervalo-de-confianza-ajusta-los-percentiles-utilizando-la-media-muestral-original.
+histograma.
